@@ -73,12 +73,12 @@
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-utils</artifactId>
-      <version>1.5.9</version>
+      <version>3.0.24</version>
     </dependency>
     <dependency>
       <groupId>org.json</groupId>
       <artifactId>json</artifactId>
-      <version>20090211</version>
+      <version>20231013</version>
     </dependency>
     <dependency>
       <groupId>commons-lang</groupId>
