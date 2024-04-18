@@ -38,7 +38,7 @@
   </description>
   
   <properties>
-    <tomcat.version>6.0.32</tomcat.version>
+    <tomcat.version>6.0.47</tomcat.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.5</maven.compiler.source>
     <maven.compiler.target>1.5</maven.compiler.target>
@@ -46,7 +46,7 @@
     <!-- Test settings -->
     <maven.test.redirectTestOutputToFile>true</maven.test.redirectTestOutputToFile>
     <failsafe.version>2.6</failsafe.version>
-    <junit.version>4.8.1</junit.version>
+    <junit.version>4.13.1</junit.version>
   </properties>
 
   <prerequisites>
@@ -149,7 +149,7 @@
       <dependency>
         <groupId>org.codehaus.plexus</groupId>
         <artifactId>plexus-utils</artifactId>
-        <version>1.0.4</version>
+        <version>3.0.24</version>
       </dependency>
       <dependency>
         <groupId>commons-codec</groupId>

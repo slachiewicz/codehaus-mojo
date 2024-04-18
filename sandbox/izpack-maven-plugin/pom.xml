@@ -39,12 +39,12 @@
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-archiver</artifactId>
-      <version>1.0-alpha-5</version>
+      <version>4.8.0</version>
     </dependency>
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-utils</artifactId>
-      <version>1.0.4</version>
+      <version>3.0.24</version>
     </dependency>
     <dependency>
       <groupId>plexus</groupId>

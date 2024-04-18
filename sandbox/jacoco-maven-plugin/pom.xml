@@ -25,7 +25,7 @@
 
   <properties>
     <project.build.java.target>1.5</project.build.java.target>
-    <mavenVersion>2.0.1</mavenVersion>
+    <mavenVersion>3.8.1</mavenVersion>
     <jacoco.version>0.4.0.20100604151516</jacoco.version>
   </properties>
 
